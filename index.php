@@ -7,11 +7,11 @@ require 'view/top.php';
 			print_title();
 			?>
 		</h2>
-		<h2>
+		<h3>
 			<?php
 			print_data();
 			 ?>
-		</h2>
+		</h3>
 <?php
 require 'view/bottom.php';
  ?>

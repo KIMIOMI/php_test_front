@@ -1,0 +1,18 @@
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'inset into topic (title, description, created) values('hello',
+'hi', NOW())' at line 12022-06-10 02:08:522022-06-10 02:09:482022-06-10 02:13:15You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'selct * from topic' at line 12022-06-10 02:14:53You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'selct * from topic' at line 12022-06-10 02:14:56You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'inser into topic (title, description, created) values('1',
+'22', NOW())' at line 1
+2022-06-10 02:16:16You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'selct * from topic' at line 1
+2022-06-10 02:16:59   You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'selct * from topic' at line 1
+2022-06-10 02:17:29	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'selct * from topic' at line 1
+2022-06-13 15:06:33	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2
+2022-06-13 15:09:25	Incorrect integer value: '' for column 'author_id' at row 1
+2022-06-13 15:09:39	Incorrect integer value: '' for column 'author_id' at row 1
+2022-06-14 14:02:07	Unknown column 'name' in 'field list'
+2022-06-14 14:21:17	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=<?$filtered['id']?>' at line 1
+2022-06-14 14:21:21	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=<?$filtered['id']?>' at line 1
+2022-06-14 14:21:22	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=<?$filtered['id']?>' at line 1
+2022-06-14 14:21:23	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=<?$filtered['id']?>' at line 1
+2022-06-14 14:22:07	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=<?$filtered['id']?>' at line 1
+2022-06-14 15:06:06	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'updaet author set(name = hoi, profile = good researcher) where id=5' at line 1
+2022-06-14 15:07:16	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(name = hoi, profile = good researcher) where id=5' at line 1
+2022-06-14 15:07:58	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'researcher where id=5' at line 1

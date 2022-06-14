@@ -11,6 +11,9 @@ require_once 'lib/print.php';
 	</head>
 	<body>
 		<h1><a href="index.php">WEB</a></h1>
+		<h2>
+			<a href="author.php">author</a>
+		</h2>
 		<ol>
 			<?php
 			print_list();
